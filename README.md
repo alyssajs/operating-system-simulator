@@ -1,2 +1,4 @@
-# operating-system-simulator
-Simulates an operating system including basic memory operations and process selection
+# Operating System Simulator
+Simulates an operating system including basic memory operations and process selection.
+
+
